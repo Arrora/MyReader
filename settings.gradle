@@ -1,0 +1,4 @@
+include ':Lib_network'
+include ':lib_common'
+include ':app'
+rootProject.name = "MyReader"
